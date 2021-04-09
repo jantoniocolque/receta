@@ -8,6 +8,8 @@
     font-size: 23px;
     font-family: 'Inter', sans-serif;
 }
+/*En este caso unicamente importo el tipo de fuente Playfair*/
+/*La finalidad del uso de dos fuentes importadas de diferente manera es a modo de practica*/
 @font-face {
     font-family: "Playfair Display";
     src: url('font/PlayfairDisplay-BoldItalic.ttf');
